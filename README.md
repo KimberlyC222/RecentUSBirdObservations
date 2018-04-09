@@ -9,7 +9,9 @@ Each result item includes basic observation data, an image of the bird and a sam
 a bird silhouette is displayed as a placeholder.  The app is limited in the number of image queries that can be made to the Bing image API.
 
 Screenshot of the first page of the app: https://ibb.co/iDeMux
+
 Screeenshot of the first page of results for a state: https://ibb.co/gnvuEx
+
 Screenshot of the second page of results for a state: https://ibb.co/kUPRSH
 
 Technologies used: HTML/CSS/JavaScript/jQuery
